@@ -108,17 +108,7 @@ The data-augmentation contain differents transformations:
 ### Final results:
 
 The following videos show the behavior into autonomous simulator mode:
-
-<div class="row post-image-bg" markdown="1">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
-        <source src="./final_model/video_external.mp4" type="video/mp4" markdown="1" >
-    </video>
-</div>
-
-<div class="row post-image-bg" markdown="1">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
-        <source src="./final_model/video_internal.mp4" type="video/mp4" markdown="1" >
-    </video>
-</div>
+* Internal view: final_model/video_internal.mp4.
+* External view (as simulator view): final_model/video_external.mp4.
 
 
